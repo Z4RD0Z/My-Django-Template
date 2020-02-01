@@ -15,7 +15,7 @@ Is build with:
 
 3. Do `$pip install -r requirements.txt`
 
-4. After `$django-admin startproject --template https://github.com/Z4RD0Z/My-Django-Template/achive/master.zip your_django_project_name.
+4. After `$django-admin startproject --template https://github.com/Z4RD0Z/My-Django-Template/archive/master.zip your_django_project_name.
 `
 
 5. enjoy =)
