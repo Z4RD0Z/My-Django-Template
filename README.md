@@ -13,12 +13,14 @@ Is build with:
 
 2. Activate your env.
 
-3. Do `$django-admin startproject --template https://github.com/Z4RD0Z/My-Django-Template/archive/master.zip your_django_project_name.`
+3. Install Django.
 
-4. After `$pip install -r requirements.txt`
+4. Do `$django-admin startproject --template https://github.com/Z4RD0Z/My-Django-Template/archive/master.zip your_django_project_name.`
+
+5. After `$pip install -r requirements.txt`
 
  
-5. enjoy =)
+6. enjoy =)
 
 # Coming Soon
 
